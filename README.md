@@ -47,16 +47,16 @@ A dynamic, TikTok-style motivational video feed designed to keep you inspired. B
    cd motivational-reels
    ```
 2. **Install dependencies:**
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 3. **Environment Variables Create a .env file in the root directory and add your credentials:**
    
-VITE_SUPABASE_URL=your_supabase_url  
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key  
-VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
+   VITE_SUPABASE_URL=your_supabase_url  
+   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key  
+   VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
 
 5. **Start the development server:**
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
